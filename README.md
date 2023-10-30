@@ -61,5 +61,6 @@ Now restart your system.
 
 
 
+
 ## Result:
 Thus, to Install Xen Hypervisor (Para Virtualization) and Virtual Manager on Ubuntu 14.04.1is successfully implemented.
